@@ -3,6 +3,26 @@
 	padding: 0;
 }
 
+/*diseño sección nav*/
+
 #navegador{
 	background-image: url(../img/bg-header.jpg);
+	height: 1000px;	
+}
+
+#navegador a{
+	margin-top: 20px;
+	text-decoration: none;
+	margin-left: 50px;
+	color: whitesmoke;
+}
+
+#navegador img:first-child{
+	width: 100px;
+	height: 80px;
+}
+
+#logo-portada{
+	padding-top: 60px;
+	width: 20%;
 }
