@@ -30,23 +30,23 @@
 
 /*diseño sección our values*/
 
- #our-values{
- 	text-align: center;
- }
+#our-values{
+	text-align: center;
+}
 
- #our-values hr{
- width: 10%;
- margin-left: 520px;
- }
+#our-values hr{
+	width: 10%;
+	margin-left: 520px;
+}
 
- #our-values h1,
-  #our-values h2{
-  	font-weight: bold;
-  }
+#our-values h1,
+#our-values h2{
+	font-weight: bold;
+}
 
 /*diseño sección fotografias-home*/
 
-#gabriel{
+#fotografias-home{
 	background-image: url(../img/menu_4.jpg);
 	background-repeat: no-repeat;
 	text-align: center;
@@ -54,7 +54,7 @@
 	height: 800px;
 }
 
-#gabriel p{
+#fotografias-home p{
 	margin-left: 350px;
 	margin-top: 200px;
 	color: white;
@@ -62,15 +62,40 @@
 	width: 50%;
 }
 
-#gabriel hr{
- width: 10%;
- margin-left: 610px;
- } 
+#fotografias-home hr{
+	width: 10%;
+	margin-left: 610px;
+} 
 
- #gabriel button{
- 	color: white;
- 	background-color: transparent;
- 	font-weight: bold;
- 	width: 200px;
- 	height: 50px;
- }
+#fotografias-home button{
+	color: white;
+	background-color: transparent;
+	font-weight: bold;
+	width: 200px;
+	height: 50px;
+}
+
+/*diseño sección people*/
+
+.carousel-caption{
+	width: 80px;
+	text-align: center;
+	margin-left: -100px;
+}
+
+.carousel-caption hr{
+	margin-left: 10px;
+}
+
+.carousel-caption i{
+	padding: 5px;
+}
+
+#people{
+	text-align: center;
+}
+
+#people hr{
+	width: 10%;
+	margin-left: 520px;
+}
