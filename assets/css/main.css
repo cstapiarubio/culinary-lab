@@ -33,3 +33,44 @@
  #our-values{
  	text-align: center;
  }
+
+ #our-values hr{
+ width: 10%;
+ margin-left: 520px;
+ }
+
+ #our-values h1,
+  #our-values h2{
+  	font-weight: bold;
+  }
+
+/*diseño sección fotografias-home*/
+
+#gabriel{
+	background-image: url(../img/menu_4.jpg);
+	background-repeat: no-repeat;
+	text-align: center;
+	background-size: cover;
+	height: 800px;
+}
+
+#gabriel p{
+	margin-left: 350px;
+	margin-top: 200px;
+	color: white;
+	font-size: 30px;
+	width: 50%;
+}
+
+#gabriel hr{
+ width: 10%;
+ margin-left: 610px;
+ } 
+
+ #gabriel button{
+ 	color: white;
+ 	background-color: transparent;
+ 	font-weight: bold;
+ 	width: 200px;
+ 	height: 50px;
+ }
